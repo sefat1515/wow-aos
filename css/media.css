@@ -1,0 +1,154 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+/*common start*/
+.common{
+	padding-bottom: 50px;
+}
+/*common end*/
+/*header start*/
+.header button{
+	margin-left: 0 !important;
+}
+/*header end*/
+/*features start*/
+.features .box{
+	margin: 6px 0 !important;
+}
+.fea1-title{
+	text-align: center;
+}
+/*features end*/
+/*jackpot start*/
+.jackpot{
+	text-align: center;
+}
+.jackpot .l-text{
+	border-bottom: 2px solid black
+}
+/*jackpot end*/
+/*features-2 css start*/
+.features-2 .box{
+	text-align: center;
+}
+/*features-2 css end*/
+/*design start*/
+.design .text{
+	text-align: center;
+}
+/*design end*/
+/*choose css start*/
+.choose .box {
+    margin: 12px;
+}
+/*choose css end*/
+/*features33 start*/
+.features-3{
+	text-align: center;
+ }
+ /*features-3 end*/
+ /*download start*/
+ .download{
+ 	text-align: center;
+ }
+ /*download end*/
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/*common start*/
+.common{
+	padding-bottom: 50px;
+}
+/*common end*/
+/*header start*/
+.header button{
+	margin-left: 0 !important;
+}
+/*header end*/
+/*features start*/
+.features .box{
+	margin: 20px 0 !important;
+}
+.fea1-title{
+	text-align: center;
+}
+/*features end*/
+/*jackpot start*/
+.jackpot{
+	text-align: center;
+}
+.jackpot .l-text{
+	border-bottom: 2px solid black
+}
+/*jackpot end*/
+/*features-2 css start*/
+.features-2 .box{
+	text-align: center;
+}
+/*features-2 css end*/
+/*choose css start*/
+.choose .box {
+    margin: 15px;
+}
+/*choose css end*/
+/*features33 start*/
+.features-3{
+	text-align: center;
+ }
+ /*features-3 end*/
+ /*download start*/
+ .download{
+ 	text-align: center;
+ }
+ /*download end*/
+ }
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/*common start*/
+.common{
+	padding-bottom: 70px;
+}
+/*common end*/
+/*header start*/
+.header button{
+	margin-left: 0 !important;
+}
+/*header end*/
+/*features start*/
+.features .box{
+	margin: 13px 0 !important;
+}
+/*features end*/
+/*choose css start*/
+.choose .box {
+    margin: 20px;
+}
+/*choose css end*/
+/*features33 start*/
+.features-3{
+	text-align: center;
+ }
+ /*features-3 end*/	
+ }
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+	
+	
+ }
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+
+	
+	
+ }
+
+
+/*Extra Extra large devices (Extra large desktops, 1200px and up)*/
+@media (min-width: 1400px) { 
+
+
+ }
